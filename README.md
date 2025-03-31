@@ -143,8 +143,8 @@ Sou apaixonado por tecnologia e programação, tenho 29 anos e sou natural do Pa
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="SupaBase" 
+    title="SupaBase"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
@@ -159,8 +159,8 @@ Sou apaixonado por tecnologia e programação, tenho 29 anos e sou natural do Pa
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
